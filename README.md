@@ -1,5 +1,6 @@
 ## Hi there 👋 I am Harshit Gupta.
 🎓 Master's student in Electrical Engineering @ Texas A&M University (Aug 2024 - May 2026)
+--
 ⚡ Passionate about Analog, Mixed-Signal, and RFIC Design  
 
 ## Experience Timeline
