@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Harshit Gupta.
-🎓 Master's student in Electrical Engineering @ Texas A&M University  
+🎓 Master's student in Electrical Engineering @ Texas A&M University (Aug 2024 - May 2026)
 ⚡ Passionate about Analog, Mixed-Signal, and RFIC Design  
 
 ## Experience Timeline
@@ -19,9 +19,16 @@
 ---
 
 ⚡ **Fall 2025 | Intel Corporation (Power Delivery Group)**  
-*Graduate Intern*  
+*Graduate Techinal Intern*  
 → Modeled die-level PDN characteristics and validated VRM performance.  
 → Worked around Linux/TCL scripts for MIM-cap extraction and compensation tuning. 
+
+---
+### 🧰 Tools & Skills
+`Cadence Virtuoso`  · `MATLAB` · `Verilog-A` · `Python`  · `Calibre Tools (DRC, LVS)`   
+---
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/harshit-gupta-36b1a3182/) 
 <!--
 **HarshitTAMU/HarshitTAMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
