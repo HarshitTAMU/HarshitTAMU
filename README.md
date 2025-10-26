@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 | 🧩 Project | 📝 Description | 🧰 Tech Stack |
 |:---|:---|:---|
-| [**Sub-1V Bandgap Reference**](https://github.com/harshitgupta/bandgap-reference) | Curvature-compensated bandgap targeting sub-1 V LDOs. | Cadence Virtuoso |
+| [**Sub-1V Bandgap Reference**](https://github.com/HarshitTAMU/Projects/blob/main/SUB%201V%20BG%20Design.pdf) | Vbg : 300mV for a supply of 1.2 Volts, with max Power <1mW, 1% accuracy across temperature | Cadence Virtuoso |
 
 </details>
 
