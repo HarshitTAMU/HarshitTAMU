@@ -44,3 +44,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">🚀 Projects Overview</h2>
+<p align="center">Organized by domain for quick navigation.</p>
+
+<details open>
+  <summary><b>⚙️ PMIC & Power Management</b></summary>
+
+| 🧩 Project | 📝 Description | 🧰 Tech Stack |
+|:---|:---|:---|
+| [**Sub-1V Bandgap Reference**](https://github.com/harshitgupta/bandgap-reference) | Curvature-compensated bandgap targeting sub-1 V LDOs. | Cadence Virtuoso |
+
+</details>
+
+<details open>
+  <summary><b>📊 Data Converters</b></summary>
+
+| ⚡ Project | 📝 Description | 🧰 Tech Stack |
+|:---|:---|:---|
+
+</details>
+
+<details open>
+  <summary><b>⏱️ Clocks & RFIC</b></summary>
+
+| 📡 Project | 📝 Description | 🧰 Tech Stack |
+|:---|:---|:---|
+
+</details>
+
+<details open>
+  <summary><b>⚡ High-Speed Design (SerDes)</b></summary>
+
+| 💻 Project | 📝 Description | 🧰 Tech Stack |
+|:---|:---|:---|
+</details>
