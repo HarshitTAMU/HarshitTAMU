@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 | 🧩 Project | 📝 Description | 🧰 Tech Stack |
 |:---|:---|:---|
 | [**Sub-1V Bandgap Reference**](https://github.com/HarshitTAMU/Projects/blob/main/SUB%201V%20BG%20Design.pdf) | Vbg : 300mV for a supply of 1.2 Volts, with max Power <1mW, 1% accuracy across temperature, sigma<5mV @ 27 degrees, PSRR > 40 dB | Cadence Virtuoso |  
-| [**LDO Design (Chava Zero)**](https://github.com/HarshitTAMU/Projects/blob/main/LDO_DESIGN.pdf) | Vout :1.5 Volts, Vin : 1.8 Volts, Transient OV/UV < 0.5%, CLOAD : 1uF, Max LOAD : 70mA , stable across loads | Cadence Virtuoso | 
+| [**LDO Design (Chava Zero)**](https://github.com/HarshitTAMU/Projects/blob/main/LDO_DESIGN.pdf) | Vout :1.5 Volts, Vin : 1.8 Volts, Transient OV/UV < 0.5%, CLOAD : 1uF, Max LOAD : 70mA , stable across loads | Cadence Virtuoso |
+
+| [**10-bit 50MS/s SAR ADC**](https://github.com/HarshitTAMU/Projects/blob/main/ECEN607_SARADC_PRESENTATION.pdf) | VDD:1.2 Volts, 90nm Technology, Two-channel Time Interleaved Version is also demonstrated| Cadence Virtuoso |
 
 </details>
 
