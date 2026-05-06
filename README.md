@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 |:---|:---|:---|
 | [**Sub-1V Bandgap Reference**](https://github.com/HarshitTAMU/Projects/blob/main/SUB%201V%20BG%20Design.pdf) | Vbg : 300mV for a supply of 1.2 Volts, with max Power <1mW, 1% accuracy across temperature, sigma<5mV @ 27 degrees, PSRR > 40 dB | Cadence Virtuoso |  
 | [**LDO Design (Chava Zero)**](https://github.com/HarshitTAMU/Projects/blob/main/LDO_DESIGN.pdf) | Vout :1.5 Volts, Vin : 1.8 Volts, Transient OV/UV < 0.5%, CLOAD : 1uF, Max LOAD : 70mA , stable across loads | Cadence Virtuoso |
+| [**NMC & Ahuja Compensation**](https://github.com/HarshitTAMU/Projects/blob/main/ECEN607_LAB6_735006036.pdf) |  | Cadence Virtuoso |
 
 </details>
 
